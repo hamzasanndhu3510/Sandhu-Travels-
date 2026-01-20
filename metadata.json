@@ -1,0 +1,7 @@
+{
+  "name": "Sandhu Travels - Modern Pakistan Tours",
+  "description": "Premium travel & tour booking platform for Northern Pakistan, featuring weekly plans, SEO-optimized destinations, and seamless booking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
